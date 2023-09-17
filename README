@@ -1,0 +1,6 @@
+File compose dokcer-compose do:
+    run redis-client
+
+Database - postgres@host:password
+
+Test Api - Postman GUI
